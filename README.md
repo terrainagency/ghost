@@ -1,7 +1,7 @@
 ![Ghost Logo](https://github.com/terrainagency/ghost/blob/main/assets/logo.svg)
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/terrainagency/ghost/blob/main/assets/logo.svg">
+  <img width="260" height="300" src="https://github.com/terrainagency/ghost/blob/main/assets/logo.svg">
 </p>
 
 # Ghost
