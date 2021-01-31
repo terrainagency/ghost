@@ -1,5 +1,3 @@
-![Ghost Logo](https://github.com/terrainagency/ghost/blob/main/assets/logo.svg)
-
 <p align="center">
   <img width="200" height="200" src="https://github.com/terrainagency/ghost/blob/main/assets/logo.svg">
 </p>
