@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" height="200" src="https://github.com/terrainagency/ghost/blob/main/assets/logo.svg">
+  <img width="180" height="180" src="https://github.com/terrainagency/ghost/blob/main/assets/logo.svg">
 </p>
 
 # Ghost
