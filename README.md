@@ -6,7 +6,7 @@
 Ghost is a library of foundational code blocks, designed for practical use on projects built with GSAP and Tailwind.
 
 # Primary Components
-
-* [WindowQuery](https://github.com/terrainagency/WindowQuery.js)
-* [Gallery](https://github.com/terrainagency/Gallery.js)
-* [ScrollSequence](https://github.com/terrainagency/ScrollSequence.js)
+* [Accordion.js](https://github.com/terrainagency/Accordion.js)
+* [Gallery.js](https://github.com/terrainagency/Gallery.js)
+* [ScrollSequence.js](https://github.com/terrainagency/ScrollSequence.js)
+* [WindowQuery.js](https://github.com/terrainagency/WindowQuery.js)
