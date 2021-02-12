@@ -7,5 +7,6 @@ Ghost is a library of foundational code blocks, designed for practical use on pr
 
 # Primary Components
 
+* [WindowQuery](https://github.com/terrainagency/WindowQuery.js)
 * [Gallery](https://github.com/terrainagency/Gallery.js)
 * [ScrollSequence](https://github.com/terrainagency/ScrollSequence.js)
