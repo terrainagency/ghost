@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .hidden { display: none }
+        .block { display: block }
+        .flex { display: flex; }
+        .justify-center { justify-content: center; }
+        .items-center { align-items: center; }
+        .p-4 { padding: 1rem; }
+        .mb-4 { margin-bottom: 1rem; }
+        .border { border: 1px solid #000; }
+        .cursor-pointer { cursor: pointer; }
+
+
+
+        input[type=number]::-webkit-inner-spin-button,
+        input[type=number]::-webkit-outer-spin-button {
+            -webkit-appearance: none;
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <label for="quantity" class="block mb-4">Quantity</label>
+        <div class="@uiNum flex" data-max="9">
+            <div data-btn="minus" class="flex items-center justify-center border p-4 cursor-pointer">-</div>
+            <input class="p-4" min="1" max="9" name="quantity" value="1" type="number" />
+            <div data-btn="plus" class="flex items-center justify-center border p-4 cursor-pointer">+</div>
+        </div>
+    </div>
+
+    <script src="../global/ui.js"></script>
+</body>
+</html>
