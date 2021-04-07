@@ -15,7 +15,10 @@ All Ghost objects are connected to DOM elements via id and class names that begi
 
 Classname structure: "`@` `type` `-` `name`"
 
-# Interface
+Ex: "`@ui-number`" or "`@ghost-ScrollSequence`"
+
+
+# Interface [ @ui ]
 * [File.js](https://github.com/terrainagency/ghost/tree/main/interface/File)
 * [Input.js](https://github.com/terrainagency/ghost/tree/main/interface/Input)
 * [Number.js](https://github.com/terrainagency/ghost/tree/main/interface/Number) `stable` 
@@ -25,7 +28,7 @@ Classname structure: "`@` `type` `-` `name`"
 * [Range.js](https://github.com/terrainagency/ghost/tree/main/interface/Range)
 * [Select.js](https://github.com/terrainagency/ghost/tree/main/interface/Select)
 
-# Content
+# Content [ @ghost ]
 * [Accordion.js](https://github.com/terrainagency/ghost/tree/main/content/Accordion)
 * [DropDropList.js](https://github.com/terrainagency/ghost/tree/main/content/DragDropList)
 * [Gallery.js](https://github.com/terrainagency/ghost/tree/main/content/Gallery)
