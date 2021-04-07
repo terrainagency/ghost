@@ -11,17 +11,17 @@ Ghost's code is non-obtrusive, and does not create any actions without implicit 
 Ghost was built primarily for high performance Shopify themes, and is intended to be used in on a byte-by-byte basis. 
 
 # Concepts 
-All Ghost objects and components are connected to DOM elements via id and class names that begin with `@`, and utilize `data-` attributes for configuration.
+All Ghost objects are connected to DOM elements via id and class names that begin with `@`, and utilize `data-` attributes for configuration.
 
-# Components
-* [File.js](https://github.com/terrainagency/ghost/tree/main/components/File)
-* [Input.js](https://github.com/terrainagency/ghost/tree/main/components/Input)
-* [Number.js](https://github.com/terrainagency/ghost/tree/main/components/Number)
-* [Paginate.js](https://github.com/terrainagency/ghost/tree/main/components/Paginate)
-* [Pin.js](https://github.com/terrainagency/ghost/tree/main/components/Pin)
-* [Radio.js](https://github.com/terrainagency/ghost/tree/main/components/Radio)
-* [Range.js](https://github.com/terrainagency/ghost/tree/main/components/Range)
-* [Select.js](https://github.com/terrainagency/ghost/tree/main/components/Select)
+# Interface
+* [File.js](https://github.com/terrainagency/ghost/tree/main/interface/File)
+* [Input.js](https://github.com/terrainagency/ghost/tree/main/interface/Input)
+* [Number.js](https://github.com/terrainagency/ghost/tree/main/interface/Number)
+* [Paginate.js](https://github.com/terrainagency/ghost/tree/main/interface/Paginate)
+* [Pin.js](https://github.com/terrainagency/ghost/tree/main/interface/Pin)
+* [Radio.js](https://github.com/terrainagency/ghost/tree/main/interface/Radio)
+* [Range.js](https://github.com/terrainagency/ghost/tree/main/interface/Range)
+* [Select.js](https://github.com/terrainagency/ghost/tree/main/interface/Select)
 
 # Content
 * [Accordion.js](https://github.com/terrainagency/ghost/tree/main/content/Accordion)

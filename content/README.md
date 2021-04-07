@@ -2,8 +2,11 @@
   <img width="180" height="180" src="https://github.com/terrainagency/ghost/blob/main/assets/logo.svg" alt="Ghost: Agnostic GSAP and Tailwind Framework">
 </p>
 
-# Components
-Ghost's components are functional blocks that return a callback under specified conditions. These components are intended for use as a javascript core for Terrain's projects.
+# Ghost / Content
+Ghost's contents provide functionality to content blocks within a page. 
+
+# Usage
+All content objects must be included manually in order to be utilized. 
 
 
 
