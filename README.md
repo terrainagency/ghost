@@ -15,7 +15,9 @@ All Ghost objects are connected to DOM elements via id and class names that begi
 
 Classname structure: "`@` `type` `-` `name`"
 
-Ex: `@ui-number`, `@btn-add`, `@obj-ScrollSequence`
+Parent selector examples: `@ui-number` `@obj-ScrollSequence`
+
+Child selector example: `@btn-plus` `@btn-minus`
 
 
 # Interface [ @ui ]
