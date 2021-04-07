@@ -11,7 +11,9 @@ Ghost's code is non-obtrusive, and does not create any actions without implicit 
 Ghost was built primarily for high performance Shopify themes, and is intended to be used in on a byte-by-byte basis. 
 
 # Concepts 
-All Ghost objects are connected to DOM elements via id and class names that begin with `@`, and utilize `data-` attributes for configuration.
+All Ghost objects are connected to DOM elements via id and class names that begin with `@`, and utilize native properties or `data-` attributes for configuration.
+
+Classname structure: `@` `type` `-name`
 
 # Interface
 * [File.js](https://github.com/terrainagency/ghost/tree/main/interface/File)
