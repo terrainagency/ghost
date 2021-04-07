@@ -2,12 +2,18 @@
   <img width="180" height="180" src="https://github.com/terrainagency/ghost/blob/main/assets/logo.svg" alt="Ghost: Agnostic GSAP and Tailwind Framework">
 </p>
 
-# Ghost
+# Ghost-UI
 Ghost is a library of foundational code blocks, designed for practical use on projects built with GSAP and Tailwind.
 
-Ghost's code is non-obtrusive, and does not create any actions without your direction. It is designed to be as agnostic as possible, allowing it to function freely accross a large variety of applications.
+Ghost's code is non-obtrusive, and does not create any actions without implicit direction. It is designed to be as agnostic as possible, allowing the library to function freely accross a large variety of applications.
 
 Version: 0.9
+
+# TailwindCSS
+
+In order to simplify the experience of building Tailwind sites, the connection of Ghost-UI and DOM elements has been carefully designed to be clear and concise within HTML documents.
+
+All Ghost objects and components are connected to DOM elements via id and class names that begin with `@`, and utilize `data-` attributes for configuration.
 
 # Objects
 * [Gallery.js](https://github.com/terrainagency/Gallery.js)
