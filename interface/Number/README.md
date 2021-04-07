@@ -4,7 +4,7 @@
 
 # Number.js
 
-* [Ghost](https://github.com/terrainagency/ghost/tree/main/) / * [Interface](https://github.com/terrainagency/ghost/tree/main/interface) / Number
+[Ghost](https://github.com/terrainagency/ghost/tree/main/) / [Interface](https://github.com/terrainagency/ghost/tree/main/interface) / Number
 
 # Usage
 
