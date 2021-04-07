@@ -3,10 +3,10 @@
 </p>
 
 # Ghost / Interface
-Ghost's interface objects are functional blocks that return a callback under specified conditions. These objects are intended for use as a javascript core for Terrain's projects.
+Ghost's interface components are functional blocks that return a callback under specified conditions. 
 
 # Usage
-All interface objects are included in base installations of Ghost, and are available for usage globally.
+All interface components are included in base installations of Ghost, and are available for usage globally.
 
 
 

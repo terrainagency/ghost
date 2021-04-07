@@ -2,10 +2,11 @@
   <img width="180" height="180" src="https://github.com/terrainagency/ghost/blob/main/assets/logo.svg" alt="Ghost: Agnostic GSAP and Tailwind Framework">
 </p>
 
-# Ghost UI
+# Number.js
 
+* [Ghost](https://github.com/terrainagency/ghost/tree/main/) / * [Interface](https://github.com/terrainagency/ghost/tree/main/interface) / Number
 
-# Quantity 
+# Usage
 
 ```html
 <div>

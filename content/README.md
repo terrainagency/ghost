@@ -3,10 +3,10 @@
 </p>
 
 # Ghost / Content
-Ghost's contents provide functionality to content blocks within a page. 
+Ghost's content components provide functionality to content blocks within a page. 
 
 # Usage
-All content objects must be included manually in order to be utilized. 
+All content components must be included manually in order to be utilized. 
 
 
 

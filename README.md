@@ -33,6 +33,7 @@ All Ghost objects are connected to DOM elements via id and class names that begi
 # Utils
 * [debounce.js](https://github.com/terrainagency/ghost/blob/main/utils/debounce.js)
 * [objectToArray.js](https://github.com/terrainagency/ghost/blob/main/utils/objecToArray.js)
+* [parentClass.js](https://github.com/terrainagency/ghost/tree/main/utils/WindowQuery.js)
 * [timer.js](https://github.com/terrainagency/ghost/tree/main/utils/Timer.js)
 * [wordToSpan.js](https://github.com/terrainagency/ghost/blob/main/utils/wordToSpan.js)
 * [windowQuery.js](https://github.com/terrainagency/ghost/tree/main/utils/WindowQuery.js)
