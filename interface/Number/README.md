@@ -5,7 +5,7 @@
 # Number.js
 Add class `@ui-num` to the container element of the number input element. Add class `@btn-plus` and `@btn-minus` to enable button functionality.
 
-Settings are based upon the native `<input type="number">` properties.
+Parameters are defined by native `<input type="number">` properties.
 
 ```html
 <div>
@@ -25,5 +25,4 @@ Class | Functionality
 `@btn-minus` | Subtracts 1 step to the input
 
 # Status
-
 `v1.0`

@@ -21,17 +21,16 @@ Child selector example: `@btn-plus` `@btn-minus`
 
 
 # Interface [ @ui ]
-* [File.js](https://github.com/terrainagency/ghost/tree/main/interface/File)
-* [Input.js](https://github.com/terrainagency/ghost/tree/main/interface/Input)
+* [Input.js](https://github.com/terrainagency/ghost/tree/main/interface/Input) `Active Development`
 * [Number.js](https://github.com/terrainagency/ghost/tree/main/interface/Number) `v1.0` 
-* [Paginate.js](https://github.com/terrainagency/ghost/tree/main/interface/Paginate)
-* [Pin.js](https://github.com/terrainagency/ghost/tree/main/interface/Pin)
-* [Radio.js](https://github.com/terrainagency/ghost/tree/main/interface/Radio)
-* [Range.js](https://github.com/terrainagency/ghost/tree/main/interface/Range)
-* [Select.js](https://github.com/terrainagency/ghost/tree/main/interface/Select)
+* [Paginate.js](https://github.com/terrainagency/ghost/tree/main/interface/Paginate) `Active Development`
+* [Pin.js](https://github.com/terrainagency/ghost/tree/main/interface/Pin) `Active Development`
+* [Radio.js](https://github.com/terrainagency/ghost/tree/main/interface/Radio) `Active Development`
+* [Range.js](https://github.com/terrainagency/ghost/tree/main/interface/Range) `Active Development`
+* [Select.js](https://github.com/terrainagency/ghost/tree/main/interface/Select) `Active Development`
 
 # Content [ @obj ]
-* [Accordion.js](https://github.com/terrainagency/ghost/tree/main/content/Accordion)
+* [Accordion.js](https://github.com/terrainagency/ghost/tree/main/content/Accordion) `v1.0`
 * [DropDropList.js](https://github.com/terrainagency/ghost/tree/main/content/DragDropList)
 * [Gallery.js](https://github.com/terrainagency/ghost/tree/main/content/Gallery)
 * [ScrollSequence.js](https://github.com/terrainagency/ghost/tree/main/content/ScrollSequence)
