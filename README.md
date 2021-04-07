@@ -21,13 +21,13 @@ Child selector example: `@btn-plus` `@btn-minus`
 
 
 # Interface [ @ui ]
-* [Input.js](https://github.com/terrainagency/ghost/tree/main/interface/Input) :small_orange_diamond:
-* [Number.js](https://github.com/terrainagency/ghost/tree/main/interface/Number) `v1.0` 
-* [Paginate.js](https://github.com/terrainagency/ghost/tree/main/interface/Paginate) `Active Development`
-* [Pin.js](https://github.com/terrainagency/ghost/tree/main/interface/Pin) `Active Development`
-* [Radio.js](https://github.com/terrainagency/ghost/tree/main/interface/Radio) `Active Development`
-* [Range.js](https://github.com/terrainagency/ghost/tree/main/interface/Range) `Active Development`
-* [Select.js](https://github.com/terrainagency/ghost/tree/main/interface/Select) `Active Development`
+* [Input.js](https://github.com/terrainagency/ghost/tree/main/interface/Input) :small_orange_diamond: `Active Development`
+* [Number.js](https://github.com/terrainagency/ghost/tree/main/interface/Number) :small_blue_diamond: `v1.0` 
+* [Paginate.js](https://github.com/terrainagency/ghost/tree/main/interface/Paginate) :small_red_triangle: `Active Development`
+* [Pin.js](https://github.com/terrainagency/ghost/tree/main/interface/Pin) :small_orange_diamond: `Active Development`
+* [Radio.js](https://github.com/terrainagency/ghost/tree/main/interface/Radio) :small_orange_diamond: `Active Development`
+* [Range.js](https://github.com/terrainagency/ghost/tree/main/interface/Range) :small_orange_diamond: `Active Development`
+* [Select.js](https://github.com/terrainagency/ghost/tree/main/interface/Select) :small_orange_diamond: `Active Development`
 
 # Content [ @obj ]
 * [Accordion.js](https://github.com/terrainagency/ghost/tree/main/content/Accordion) `v1.0`
