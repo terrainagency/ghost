@@ -21,18 +21,18 @@ Child selector example: `@btn-plus` `@btn-minus`
 
 
 # Interface [ @ui ]
-* [Input.js](https://github.com/terrainagency/ghost/tree/main/interface/Input) :small_orange_diamond: `Active Development`
+* [Input.js](https://github.com/terrainagency/ghost/tree/main/interface/Input) :small_orange_diamond: `v0.1` `Active Development`
 * [Number.js](https://github.com/terrainagency/ghost/tree/main/interface/Number) :small_blue_diamond: `v1.0` 
 * [Paginate.js](https://github.com/terrainagency/ghost/tree/main/interface/Paginate) :small_red_triangle: `Proposed`
 * [Pin.js](https://github.com/terrainagency/ghost/tree/main/interface/Pin) :small_red_triangle: `Proposed`
-* [Radio.js](https://github.com/terrainagency/ghost/tree/main/interface/Radio) :small_orange_diamond: `Active Development`
-* [Range.js](https://github.com/terrainagency/ghost/tree/main/interface/Range) :small_orange_diamond: `Active Development`
-* [Select.js](https://github.com/terrainagency/ghost/tree/main/interface/Select) :small_orange_diamond: `Active Development`
+* [Radio.js](https://github.com/terrainagency/ghost/tree/main/interface/Radio) :small_orange_diamond: `v0.1` `Active Development`
+* [Range.js](https://github.com/terrainagency/ghost/tree/main/interface/Range) :small_orange_diamond: `v0.1` `Active Development`
+* [Select.js](https://github.com/terrainagency/ghost/tree/main/interface/Select) :small_orange_diamond: `v0.1` `Active Development`
 
 # Content [ @obj ]
 * [Accordion.js](https://github.com/terrainagency/ghost/tree/main/content/Accordion) :small_blue_diamond: `v1.0`
 * [DragDropList.js](https://github.com/terrainagency/ghost/tree/main/content/DragDropList) :small_red_triangle: `Proposed`
-* [Gallery.js](https://github.com/terrainagency/ghost/tree/main/content/Gallery) :small_orange_diamond: `Active Development`
+* [Gallery.js](https://github.com/terrainagency/ghost/tree/main/content/Gallery) :small_orange_diamond: `v0.1` `Active Development`
 * [ScrollSequence.js](https://github.com/terrainagency/ghost/tree/main/content/ScrollSequence) :small_blue_diamond: `v1.0` 
 * [Slider.js](https://github.com/terrainagency/ghost/tree/main/content/Slider) :small_blue_diamond: `v1.0` 
 
