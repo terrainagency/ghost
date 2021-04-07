@@ -3,20 +3,23 @@
 </p>
 
 # Number.js
+Add class `@ui-num` to the container element of the number input element. Add class `@btn-plus` and `@btn-minus` to enable button functionality.
 
-[Ghost](https://github.com/terrainagency/ghost/tree/main/) / [Interface](https://github.com/terrainagency/ghost/tree/main/interface) / Number
-
-# Usage
-
-Add class `@ui-num` to the container element of the number input element.
+Settings are based upon the native `<input type="number">` properties.
 
 ```html
 <div>
     <label for="quantity" class="block mb-4">Quantity</label>
-    <div class="@ui-num flex" data-max="9">
-        <div data-btn="minus" class="flex items-center justify-center border p-4 cursor-pointer">-</div>
-        <input class="p-4" data-min="1" data-max="9" name="quantity" value="1" type="number" />
-        <div data-btn="plus" class="flex items-center justify-center border p-4 cursor-pointer">+</div>
+    <div class="@ui-num">
+        <div class="@btn-minus">-</div>
+        <input name="quantity" class="p-4" min="1" max="9" step="1" value="1" type="number" />
+        <div class="@btn-plus">+</div>
     </div>
 </div>
 ```
+
+Class | Functionality
+------------ | -------------
+`@ui-name` | Creates an instance of Number.js
+`@btn-plus` | Adds 1 step to the input
+`@btn-minus` | Subtracts 1 step to the input
