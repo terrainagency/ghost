@@ -23,3 +23,7 @@ Class | Functionality
 `@ui-name` | Creates an instance of Number.js
 `@btn-plus` | Adds 1 step to the input
 `@btn-minus` | Subtracts 1 step to the input
+
+# Status
+
+`v1.0`
