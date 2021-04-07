@@ -44,5 +44,5 @@ Ghost's code is non-obtrusive, and does not create any actions without your dire
 v0.1:
 - [x] Basic functionality
 - [x] Separate initialization
-- [ ] Test usage on larger projects
+- [x] Scoped for larger projects
 
