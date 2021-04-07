@@ -21,7 +21,7 @@ Child selector example: `@btn-plus` `@btn-minus`
 
 
 # Interface [ @ui ]
-* [Input.js](https://github.com/terrainagency/ghost/tree/main/interface/Input) `Active Development`
+* [Input.js](https://github.com/terrainagency/ghost/tree/main/interface/Input) `:small_orange_diamond:`
 * [Number.js](https://github.com/terrainagency/ghost/tree/main/interface/Number) `v1.0` 
 * [Paginate.js](https://github.com/terrainagency/ghost/tree/main/interface/Paginate) `Active Development`
 * [Pin.js](https://github.com/terrainagency/ghost/tree/main/interface/Pin) `Active Development`
