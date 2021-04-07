@@ -16,7 +16,7 @@ All Ghost objects are connected to DOM elements via id and class names that begi
 # Interface
 * [File.js](https://github.com/terrainagency/ghost/tree/main/interface/File)
 * [Input.js](https://github.com/terrainagency/ghost/tree/main/interface/Input)
-* [Number.js](https://github.com/terrainagency/ghost/tree/main/interface/Number)
+* [Number.js](https://github.com/terrainagency/ghost/tree/main/interface/Number) `stable` 
 * [Paginate.js](https://github.com/terrainagency/ghost/tree/main/interface/Paginate)
 * [Pin.js](https://github.com/terrainagency/ghost/tree/main/interface/Pin)
 * [Radio.js](https://github.com/terrainagency/ghost/tree/main/interface/Radio)

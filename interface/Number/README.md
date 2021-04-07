@@ -8,7 +8,7 @@
 
 # Usage
 
-Add class `@ui-num` to the container of the number input.
+Add class `@ui-num` to the container element of the number input element.
 
 ```html
 <div>
