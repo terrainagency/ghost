@@ -18,7 +18,7 @@ Parent selectors connect the functionality of Ghost interface and content compon
 
 > Examples: `@number` `@scroll-sequence` `@load`
 
-## Child Selectors
+### Child Selectors
 Child selectors are used to attach specific properties or methods of Ghost interface and content components to HTML elements.
 
 Classname structure: "`@` `type` `-` `name`"
