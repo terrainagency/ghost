@@ -3,19 +3,19 @@
 </p>
 
 # Pin.js
-Add class `@ui-pin` to the container element of the input.
+Add class `@pin` to the container element of the input.
 
 Parameters are defined by data-type.
 
 ```html
-<div class="@ui-pin" data-length="4">
+<div class="@pin" data-length="4">
     <input type="text" hidden>
 </div>
 ```
 
 Class | Functionality
 ------------ | -------------
-`@ui-pin` | Creates an instance of Pin.js
+`@pin` | Creates an instance of Pin.js
 
 Datatype | Usage
 ------------ | -------------

@@ -11,14 +11,25 @@ Ghost's code is non-obtrusive, and does not create any actions without implicit 
 Ghost was built primarily for high performance Shopify themes, and is intended to be used in on a byte-by-byte basis. 
 
 # Concepts 
-All Ghost objects are connected to DOM elements via id and class names that begin with `@`, and utilize native properties or `data-` attributes for configuration.
+All Ghost objects are connected to DOM elements via id and class names that begin with `@`, and utilize native properties or `data-` attributes for configuration. All classes are written in kebab-case
+
+# Parent Selectors
+Parent selectors connect the functionality of Ghost interface and content components to HTML elements.
+
+> Examples: `@number` `@scroll-sequence` `@load`
+
+# Child Selectors
+Child selectors are used to attach specific properties or methods of Ghost interface and content components to HTML elements.
 
 Classname structure: "`@` `type` `-` `name`"
 
-Parent selector examples: `@ui-number` `@obj-ScrollSequence`
+Class | Functionality
+------------ | -------------
+`@btn-X` | Connects to the relevant event listener
+`@content` | Inserts generated content
+`@active` | Refers to the active element within the parent
 
-Child selector example: `@btn-plus` `@btn-minus`
-
+> Examples: `@btn-plus` `@btn-minus`
 
 # Interface [ @ui ]
 * [Input.js](https://github.com/terrainagency/ghost/tree/main/interface/Input) :small_orange_diamond: `v0.1` `Active Development`
@@ -38,6 +49,7 @@ Child selector example: `@btn-plus` `@btn-minus`
 
 # Utils
 * [debounce.js](https://github.com/terrainagency/ghost/blob/main/utils/debounce.js) :small_blue_diamond: `v1.0` 
+* [lazy.js](https://github.com/terrainagency/ghost/blob/main/utils/lazy.js) :small_orange_diamond: `v0.1` `Active Development`
 * [objectToArray.js](https://github.com/terrainagency/ghost/blob/main/utils/objecToArray.js) :small_blue_diamond: `v1.0` 
 * [parentClass.js](https://github.com/terrainagency/ghost/tree/main/utils/WindowQuery.js) :small_blue_diamond: `v1.0` 
 * [timer.js](https://github.com/terrainagency/ghost/tree/main/utils/Timer.js) :small_blue_diamond: `v1.0` 

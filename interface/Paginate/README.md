@@ -3,19 +3,19 @@
 </p>
 
 # Paginate.js
-Add class `@ui-paginate` to the container element.
+Add class `@paginate` to the container element.
 
 Parameters are defined by liquid properties. 
 
 ```html
-<div class="@ui-paginate">
+<div class="@paginate">
     <!-- Content -->
 </div>
 ```
 
 Class | Functionality
 ------------ | -------------
-`@ui-paginate` | Creates an instance of Paginate.js
+`@paginate` | Creates an instance of Paginate.js
 `@btn-prev` | Routes to the previous
 `@btn-next` | Routes to the next page
 
