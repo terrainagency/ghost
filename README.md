@@ -5,6 +5,10 @@
 # Ghost
 Ghost is a library of foundational code blocks, designed for practical use on projects built with GSAP and Tailwind.
 
+```
+npm install -D ghost-ui
+```
+
 Ghost's code is non-obtrusive, and does not create any actions without implicit direction. It is designed to be as agnostic as possible, allowing the library to function freely accross a large variety of applications.
 
 # Usage
