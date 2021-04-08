@@ -2,20 +2,20 @@
   <img width="180" height="180" src="https://github.com/terrainagency/ghost/blob/main/assets/logo.svg" alt="Ghost: Agnostic GSAP and Tailwind Framework">
 </p>
 
-# Ghost
+# ghost-ui
 Ghost is a library of foundational code blocks, designed for practical use on projects built with GSAP and Tailwind.
 
 ```
-npm install -D ghost-ui
+npm i ghost-ui --save
 ```
 
-Ghost's code is non-obtrusive, and does not create any actions without implicit direction. It is designed to be as agnostic as possible, allowing the library to function freely accross a large variety of applications.
+Built to be non-obtrusive, all Ghost bases do not create any actions without implicit direction. It is designed to be as agnostic as possible, allowing the library to function freely accross a large variety of applications.
 
 # Usage
-Ghost was built primarily for high performance Shopify themes, and is intended to be used in on a byte-by-byte basis. 
+Ghost is a high performance library, and is intended to be used on a byte-by-byte basis. 
 
 # Concepts 
-All Ghost objects are connected to DOM elements via id and class names that begin with `@`, and utilize native properties or `data-` attributes for configuration. All classes are written in kebab-case
+All ghost-ui objects are connected to DOM elements via id and class names that begin with `@`, and utilize native properties or `data-` attributes for configuration. All classes are written in kebab-case
 
 ### Parent Selectors
 Parent selectors connect the functionality of Ghost interface and content components to HTML elements.
@@ -65,4 +65,4 @@ Class | Functionality
 * [Image.liquid](https://github.com/terrainagency/ghost/tree/main/snippets/Image) :small_blue_diamond: `v1.0` 
 
 # Status
-Ghost-UI is under active development. 
+ghost-ui is under active development. 
