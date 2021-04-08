@@ -13,12 +13,12 @@ Ghost was built primarily for high performance Shopify themes, and is intended t
 # Concepts 
 All Ghost objects are connected to DOM elements via id and class names that begin with `@`, and utilize native properties or `data-` attributes for configuration. All classes are written in kebab-case
 
-# Parent Selectors
+### Parent Selectors
 Parent selectors connect the functionality of Ghost interface and content components to HTML elements.
 
 > Examples: `@number` `@scroll-sequence` `@load`
 
-# Child Selectors
+## Child Selectors
 Child selectors are used to attach specific properties or methods of Ghost interface and content components to HTML elements.
 
 Classname structure: "`@` `type` `-` `name`"
