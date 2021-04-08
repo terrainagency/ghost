@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="180" height="180" src="https://github.com/terrainagency/ghost/blob/main/assets/logo.svg" alt="Ghost: Agnostic GSAP and Tailwind Framework">
+  <img width="180" height="180" src="https://github.com/terrainagency/ghost/blob/main/src/assets/logo.svg" alt="Ghost: Agnostic GSAP and Tailwind Framework">
 </p>
 
 # ghost-ui
@@ -36,33 +36,34 @@ Class | Functionality
 > Examples: `@btn-plus` `@btn-minus`
 
 # Interface [ @ui ]
-* [Input.js](https://github.com/terrainagency/ghost/tree/main/interface/Input) :small_orange_diamond: `v0.1` `Active Development`
-* [Number.js](https://github.com/terrainagency/ghost/tree/main/interface/Number) :small_blue_diamond: `v1.0` 
-* [Paginate.js](https://github.com/terrainagency/ghost/tree/main/interface/Paginate) :small_red_triangle: `Proposed`
-* [Pin.js](https://github.com/terrainagency/ghost/tree/main/interface/Pin) :small_red_triangle: `Proposed`
-* [Radio.js](https://github.com/terrainagency/ghost/tree/main/interface/Radio) :small_orange_diamond: `v0.1` `Active Development`
-* [Range.js](https://github.com/terrainagency/ghost/tree/main/interface/Range) :small_orange_diamond: `v0.1` `Active Development`
-* [Select.js](https://github.com/terrainagency/ghost/tree/main/interface/Select) :small_orange_diamond: `v0.1` `Active Development`
+* [Input.js](https://github.com/terrainagency/ghost/tree/main/src/interface/Input) :small_orange_diamond: `v0.1` `Active Development`
+* [Number.js](https://github.com/terrainagency/ghost/tree/main/src/interface/Number) :small_blue_diamond: `v1.0` 
+* [Paginate.js](https://github.com/terrainagency/ghost/tree/main/src/interface/Paginate) :small_red_triangle: `Proposed`
+* [Pin.js](https://github.com/terrainagency/ghost/tree/main/src/interface/Pin) :small_red_triangle: `Proposed`
+* [Radio.js](https://github.com/terrainagency/ghost/tree/main/src/interface/Radio) :small_orange_diamond: `v0.1` `Active Development`
+* [Range.js](https://github.com/terrainagency/ghost/tree/main/src/interface/Range) :small_orange_diamond: `v0.1` `Active Development`
+* [Select.js](https://github.com/terrainagency/ghost/tree/main/src/interface/Select) :small_orange_diamond: `v0.1` `Active Development`
 
 # Content [ @obj ]
-* [Accordion.js](https://github.com/terrainagency/ghost/tree/main/content/Accordion) :small_blue_diamond: `v1.0`
-* [DragDropList.js](https://github.com/terrainagency/ghost/tree/main/content/DragDropList) :small_red_triangle: `Proposed`
-* [Gallery.js](https://github.com/terrainagency/ghost/tree/main/content/Gallery) :small_orange_diamond: `v0.1` `Active Development`
-* [ScrollSequence.js](https://github.com/terrainagency/ghost/tree/main/content/ScrollSequence) :small_blue_diamond: `v1.0` 
-* [Slider.js](https://github.com/terrainagency/ghost/tree/main/content/Slider) :small_blue_diamond: `v1.0` 
+* [Accordion.js](https://github.com/terrainagency/ghost/tree/main/src/content/Accordion) :small_blue_diamond: `v1.0`
+* [DragDropList.js](https://github.com/terrainagency/ghost/tree/main/src/content/DragDropList) :small_red_triangle: `Proposed`
+* [Gallery.js](https://github.com/terrainagency/ghost/tree/main/src/content/Gallery) :small_orange_diamond: `v0.1` `Active Development`
+* [ScrollSequence.js](https://github.com/terrainagency/ghost/tree/main/src/content/ScrollSequence) :small_blue_diamond: `v1.0` 
+* [Slider.js](https://github.com/terrainagency/ghost/tree/main/src/content/Slider) :small_blue_diamond: `v1.0` 
 
 # Utils
-* [debounce.js](https://github.com/terrainagency/ghost/blob/main/utils/debounce.js) :small_blue_diamond: `v1.0` 
-* [lazy.js](https://github.com/terrainagency/ghost/blob/main/utils/lazy.js) :small_orange_diamond: `v0.1` `Active Development`
-* [objectToArray.js](https://github.com/terrainagency/ghost/blob/main/utils/objecToArray.js) :small_blue_diamond: `v1.0` 
-* [parentClass.js](https://github.com/terrainagency/ghost/tree/main/utils/WindowQuery.js) :small_blue_diamond: `v1.0` 
-* [timer.js](https://github.com/terrainagency/ghost/tree/main/utils/Timer.js) :small_blue_diamond: `v1.0` 
-* [wordToSpan.js](https://github.com/terrainagency/ghost/blob/main/utils/wordToSpan.js) :small_blue_diamond: `v1.0` 
-* [windowQuery.js](https://github.com/terrainagency/ghost/tree/main/utils/WindowQuery.js) :small_blue_diamond: `v1.0` 
+* [debounce.js](https://github.com/terrainagency/ghost/blob/main/src/utils/debounce.js) :small_blue_diamond: `v1.0` 
+* [lazy.js](https://github.com/terrainagency/ghost/blob/main/src/utils/lazy.js) :small_orange_diamond: `v0.1` `Active Development`
+* [objectToArray.js](https://github.com/terrainagency/ghost/blob/main/src/utils/objecToArray.js) :small_blue_diamond: `v1.0` 
+* [parentClass.js](https://github.com/terrainagency/ghost/tree/main/src/utils/WindowQuery.js) :small_blue_diamond: `v1.0` 
+* [timer.js](https://github.com/terrainagency/ghost/tree/main/src/utils/Timer.js) :small_blue_diamond: `v1.0` 
+* [wordToSpan.js](https://github.com/terrainagency/ghost/blob/main/src/utils/wordToSpan.js) :small_blue_diamond: `v1.0` 
+* [windowQuery.js](https://github.com/terrainagency/ghost/tree/main/src/utils/WindowQuery.js) :small_blue_diamond: `v1.0` 
 
 # Snippets
-* [Icon.liquid](https://github.com/terrainagency/ghost/tree/main/snippets/Icon) :small_blue_diamond: `v1.0` 
-* [Image.liquid](https://github.com/terrainagency/ghost/tree/main/snippets/Image) :small_blue_diamond: `v1.0` 
+* [Button.liquid](https://github.com/terrainagency/ghost/tree/main/src/snippets/Icon) :small_blue_diamond: `v1.0` 
+* [Icon.liquid](https://github.com/terrainagency/ghost/tree/main/src/snippets/Icon) :small_blue_diamond: `v1.0` 
+* [Image.liquid](https://github.com/terrainagency/ghost/tree/main/src/snippets/Image) :small_blue_diamond: `v1.0` 
 
 # Status
 ghost-ui is under active development. 
