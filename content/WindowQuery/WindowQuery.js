@@ -1,5 +1,5 @@
-import { debounce } from '../utils/debounce.js.js.js.js'
-import { objectToArray } from '../utils/objectToArray.js.js.js.js'
+import { debounce } from '../utils/debounce.js.js.js'
+import { objectToArray } from '../utils/objectToArray.js.js.js'
 
 export class WindowQuery {
     constructor(queries) {
